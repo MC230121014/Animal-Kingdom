@@ -1,6 +1,7 @@
 // This is the superclass of all of the Critter classes.  Your class should
 // extend this class.  The class provides several kinds of constants:
 //
+//test
 //    type Neighbor  : WALL, EMPTY, SAME, OTHER
 //    type Action    : HOP, LEFT, RIGHT, INFECT
 //    type Direction : NORTH, SOUTH, EAST, WEST
